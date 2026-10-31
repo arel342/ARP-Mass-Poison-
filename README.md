@@ -61,7 +61,7 @@ Simpan script `arp_mass_v5.1.py` di folder yang mudah diakses (misal: `C:\Tools\
 2. **WAJIB** jalankan sebagai Administrator (Klik kanan -> *Run as Administrator*).
 3. Arahkan ke folder tempat script disimpan:
    ```cmd
-   cd C:\Tools
+   cd /d "C:\Tools"
    ```
 4. Jalankan script:
    ```cmd
